@@ -1,1 +1,1 @@
-# tind-dog
+# tin-dog
