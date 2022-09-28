@@ -4,11 +4,12 @@
 https://ali-mohamed12.github.io/tin-dog/
 
 ## Sections
-```
-let username = named;
-username.click(
-  function() {
-    console.log("Hello");
-  }
-);
-```
+  - Nav
+  -  Title
+  -  Features
+  -  Testimonials
+  -  Plans
+  -  Download
+  -  Footer
+    - Links
+    - Copyright
